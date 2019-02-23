@@ -35,4 +35,14 @@
         android:id="@+id/qrImage"
         android:scaleType="fitCenter"
         />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:text="Share"
+        android:layout_margin="8dp"
+        android:padding="16dp"
+        android:layout_gravity="center"
+        android:id="@+id/shareButton"
+        />
 </LinearLayout>
